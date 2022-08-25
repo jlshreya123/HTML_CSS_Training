@@ -27,4 +27,7 @@ git config --global --remove-section user  - To remove global name and email
 
 How to remove remote origin
 ----------------------------
-git remote remove origin 
+git remote remove origin
+
+These are the git Commands
+--------------------------
